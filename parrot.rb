@@ -3,5 +3,3 @@
 def parrot(phrase)
 
 end
-
-return "#{phrase}"
